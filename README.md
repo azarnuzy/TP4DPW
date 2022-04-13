@@ -1,8 +1,22 @@
+# Preview Project Desain Pemrograman Berorientasi Objek
+> Muhammad Azar Nuzy 
+> 2004191
+> Ilmu Komputer - C1
+> Universitas Pendidikan Indonesia
+
+<p align="center">
+    <img src="./screenshot.png">
+</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
+Before you start this project, you can install dependecies and package that use in this project. In the project directory, you can run:
+
+### `npm install`
 
 In the project directory, you can run:
 
